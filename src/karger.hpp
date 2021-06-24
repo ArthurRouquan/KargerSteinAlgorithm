@@ -2,7 +2,6 @@
 
 #include <algorithm>
 #include <cmath>
-#include <optional>
 #include <random>
 #include <ranges>
 #include <stack>

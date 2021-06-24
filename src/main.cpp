@@ -7,8 +7,6 @@
 #include "karger.hpp"
 #include "instance_reader.hpp"
 
-/* http://www.columbia.edu/~cs2035/courses/ieor6614.S09/Contraction.pdf (https://doi.org/10.1145%2F234533.234534) */
-
 
 void minimal_example()
 {
