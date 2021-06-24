@@ -1,0 +1,6 @@
+*.exe
+
+build/
+.vscode/
+python/
+*.txt
