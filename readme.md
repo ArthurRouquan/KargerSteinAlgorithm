@@ -20,7 +20,7 @@ Implementation in C++20 of [Karger's algorithm](https://en.wikipedia.org/wiki/Ka
 
 This project use CMake. It's an overkill. To run the executable you need to pass a graph instance .col file:
 ```
-$ krager ..\graph_instances\le450_25d.col
+$ karger ..\graph_instances\le450_25d.col
 
 Input graph: "..\graph_instances\le450_25d.col" (|V| = 450,  |E| = 17425)
 
