@@ -1,4 +1,4 @@
-# Karger's algorithm and Karger–Stein algorithm in Modern C++20
+# Karger's algorithm and Karger–Stein algorithm
 
 Implementation in C++20 of [Karger's algorithm](https://en.wikipedia.org/wiki/Karger%27s_algorithm) using an [Union-Find data structure](https://en.wikipedia.org/wiki/Disjoint-set_data_structure) to keep track of merged nodes in O(mα(n) + n) and one of its extension, the Karger–Stein algorithm in O((mα(n) + n) log(n)). This implementation was made for educational purposes.
 
